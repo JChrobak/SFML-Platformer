@@ -1,0 +1,11 @@
+﻿  Bat.cpp
+  Coin.cpp
+  Game.cpp
+  Player.cpp
+  Portal.cpp
+  Source.cpp
+c:\users\lenovo\source\repos\2e6768ff-gr61-repo\projekt\platformer\platformer\source.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SpawnPoint.cpp
+  World.cpp
+  Generating Code...
+  Platformer.vcxproj -> C:\Users\Lenovo\Source\Repos\2e6768ff-gr61-repo\Projekt\Platformer\Debug\Platformer.exe
